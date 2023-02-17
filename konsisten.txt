@@ -9,4 +9,5 @@ KONSISTEN
 
 -belajar mobile apps
 -belajar project manager
+=belajar libreoffice
 
