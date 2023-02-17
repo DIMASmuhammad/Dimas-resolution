@@ -3,3 +3,5 @@ KONSISTEN
 -belaja bahasa inggris 
 -buat web portfolio
 -belajar github
+-belajar rest api
+-belajar figma
