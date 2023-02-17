@@ -7,3 +7,6 @@ KONSISTEN
 -belajar figma
 -blajar framework javascript
 
+-belajar mobile apps
+-belajar project manager
+
