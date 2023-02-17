@@ -5,3 +5,5 @@ KONSISTEN
 -belajar github
 -belajar rest api
 -belajar figma
+-blajar framework javascript
+
